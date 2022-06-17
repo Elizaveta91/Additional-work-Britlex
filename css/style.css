@@ -1,8 +1,13 @@
 :root {
-    --primary-text-color: #757575;
-    --title-text-color: #212121;
-    --accent-color: #2196F3;
---accent-color:#2196F3;
---additional-color: #FFFFFF;}
+    --primary-text-color: #8F95A5;
+    --title-text-color: #000000;}
 
+body {
+    color: var(--primary-text-color);
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    background: #E5E5E5;;
+    }
+    
+ul {list-style: none;}
 
